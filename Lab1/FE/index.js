@@ -86,3 +86,5 @@ function deleteEmployee(event) {
 }
 
 fetchEmployees();
+
+//completed by Mohamed Ashraf Mohamed: 1210024 & Hazem Mohamed Sayed: 1210133
